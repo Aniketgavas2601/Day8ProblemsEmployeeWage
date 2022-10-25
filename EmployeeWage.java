@@ -17,7 +17,7 @@ public class EmployeeWage {
     }
 
     public static void main(String[] args) {
-        EmployeeWage emp1 = new EmployeeWage();
-        emp1.empCheckPresentOrAbsent();
+        EmployeeWage emp = new EmployeeWage();
+        emp.empCheckPresentOrAbsent();
     }
 }
